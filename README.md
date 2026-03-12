@@ -17,7 +17,7 @@ This project analyzes retail and e-commerce data to evaluate sales performance, 
 
 ## Dashboard Preview
 
-![Sales Dashboard](sales_dashboard.png)
+![Sales Dashboard](Sales%20Performance%20Dashboard%20-%201.jpg)
 
 ![Customer Dashboard](customer_rfm_dashboard.png)
 
