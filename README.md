@@ -10,10 +10,10 @@ This project analyzes retail and e-commerce data to evaluate sales performance, 
 - Microsoft Excel (Data Source)
 
 ## Dashboard Sections
-• Sales Performance - Analyzed sales by region, category, and sub-category. Tracked key KPIs: Sales, Profit, Quantity, and Profit Margin.
-• Customer Behavior (RFM Analysis) - Segmented customers into VIP, Loyal, Potential, and At-Risk groups. Identified high-value and repeat customers.
-• Omnichannel Performance (Online vs Offline) - Compared Online vs Offline sales performance. Analyzed monthly sales trends across channels.  
-• Product Return & Refund Analysis - Evaluated return rate, returned orders, and revenue impact. Identified products with high return rates. 
+1. Sales Performance - Analyzed sales by region, category, and sub-category. Tracked key KPIs: Sales, Profit, Quantity, and Profit Margin.
+2. Customer Behavior (RFM Analysis) - Segmented customers into VIP, Loyal, Potential, and At-Risk groups. Identified high-value and repeat customers.
+3. Omnichannel Performance (Online vs Offline) - Compared Online vs Offline sales performance. Analyzed monthly sales trends across channels.
+4. Product Return & Refund Analysis - Evaluated return rate, returned orders, and revenue impact. Identified products with high return rates. 
 
 ## Dashboard Preview
 
