@@ -19,11 +19,11 @@ This project analyzes retail and e-commerce data to evaluate sales performance, 
 
 ![Sales Dashboard](Sales%20Performance%20Dashboard%20-%201.jpg)
 
-![Customer Dashboard](Customer%20Behaviour%20Analysis%20Dashboard%20-%202).jpg
+![Customer Dashboard](Customer%20Behaviour%20Analysis%20Dashboard%20-%202.jpg)
 
-![Omnichannel Dashboard](Omnichannel%20Performance%20Dashboard%20-%203).jpg
+![Omnichannel Dashboard](Omnichannel%20Performance%20Dashboard%20-%203.jpg)
 
-![Returns Dashboard](Product%20Return%20and%20Refund%20Analysis%20Dashboard%20-%204).jpg
+![Returns Dashboard](Product%20Return%20and%20Refund%20Analysis%20Dashboard%20-%204.jpg)
 
 ## Files
 • Power BI dashboard (.pbix)  
