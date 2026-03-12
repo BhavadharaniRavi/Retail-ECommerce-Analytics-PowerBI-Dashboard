@@ -23,9 +23,12 @@ This project analyzes retail and e-commerce data to evaluate sales performance, 
 
 ![Omnichannel Dashboard](Omnichannel%20Performance%20Dashboard%20-%203).jpg
 
-![Returns Dashboard](returns_dashboard.png)
+![Returns Dashboard](Product%20Return%20and%20Refund%20Analysis%20Dashboard%20-%204).jpg
 
 ## Files
 • Power BI dashboard (.pbix)  
 • Dataset  
 • Dashboard screenshots
+
+## Conclusion
+The analysis highlights key patterns in sales performance, customer segmentation, channel effectiveness, and product returns, helping businesses improve revenue and operational efficiency.
